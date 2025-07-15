@@ -1,0 +1,301 @@
+user_id,age,gender,location,interests
+1,43,Male,Pune,music cricket finance technology
+2,40,Male,Bhopal,politics health music bollywood
+3,35,Female,Guwahati,travel yoga finance gaming
+4,18,Female,Shimla,cricket politics health music fashion
+5,46,Male,Nagpur,yoga music health gaming spirituality finance
+6,30,Female,Nagpur,yoga finance
+7,48,Female,Indore,finance yoga finance
+8,45,Female,Nagpur,finance yoga finance
+9,40,Female,Shimla,cooking technology
+10,42,Female,Lucknow,spirituality gaming startups music fashion fashion finance
+11,34,Male,Mysore,technology music cooking
+12,49,Male,Kochi,education politics startups finance
+13,45,Male,Mumbai,yoga cooking finance
+14,36,Male,Kolkata,technology finance cooking education travel
+15,34,Male,Ranchi,technology music
+16,36,Female,Patna,spirituality cooking politics startups yoga
+17,42,Male,Indore,politics technology education
+18,31,Male,Bangalore,politics education spirituality yoga gaming
+19,44,Female,Shimla,cooking politics startups fashion
+20,29,Male,Indore,travel fashion yoga startups cooking
+21,40,Female,Pune,startups travel technology cricket
+22,18,Female,Mysore,finance education spirituality
+23,43,Male,Amritsar,bollywood finance
+24,28,Female,Coimbatore,spirituality startups fashion
+25,28,Male,Dehradun,fashion cricket music
+26,28,Female,Guwahati,travel education
+27,44,Female,Ranchi,finance cooking cricket politics technology finance
+28,41,Female,Bangalore,cooking bollywood health travel cricket fashion
+29,33,Male,Bhopal,cooking startups
+30,25,Male,Kolkata,music education politics technology yoga
+31,49,Female,Hyderabad,cooking fashion spirituality finance
+32,35,Female,Ranchi,cricket startups bollywood yoga
+33,27,Female,Delhi,finance cricket startups fashion
+34,24,Female,Hyderabad,education health cricket gaming
+35,46,Female,Vishakhapatnam,cooking gaming finance
+36,50,Male,Kochi,bollywood technology finance
+37,30,Male,Coimbatore,technology spirituality bollywood education cooking
+38,31,Male,Bhopal,startups finance politics spirituality education
+39,21,Male,Kolkata,finance bollywood cooking
+40,42,Male,Kochi,music cooking health spirituality
+41,29,Female,Vishakhapatnam,startups gaming
+42,29,Male,Mysore,bollywood travel yoga
+43,26,Male,Ranchi,cricket bollywood spirituality health technology
+44,41,Female,Bhubaneswar,yoga music cricket finance
+45,41,Male,Amritsar,health yoga
+46,33,Male,Bhopal,cooking health startups fashion gaming
+47,32,Male,Goa,music yoga health
+48,18,Female,Mumbai,startups travel bollywood technology
+49,21,Female,Bhopal,gaming health bollywood yoga startups fashion
+50,47,Female,Dehradun,technology health fashion
+51,38,Male,Ahmedabad,finance cooking politics technology health
+52,37,Male,Delhi,spirituality music yoga
+53,37,Female,Delhi,health fashion music bollywood education
+54,50,Female,Bhopal,startups bollywood finance
+55,22,Female,Surat,education cooking music bollywood gaming
+56,44,Male,Mumbai,education finance music fashion health finance
+57,18,Male,Amritsar,politics music cooking education gaming
+58,21,Female,Kanpur,technology fashion music spirituality travel
+59,24,Male,Indore,travel spirituality yoga education
+60,49,Male,Jaipur,yoga cricket finance finance
+61,18,Male,Bhopal,fashion finance technology education health
+62,40,Male,Ahmedabad,politics spirituality technology education music
+63,49,Male,Agra,cricket health finance
+64,24,Male,Patna,bollywood music gaming
+65,37,Male,Patna,education technology music
+66,33,Male,Nagpur,fashion yoga
+67,47,Male,Mysore,yoga finance education finance
+68,20,Female,Hyderabad,cooking startups fashion
+69,26,Female,Jaipur,music gaming travel bollywood fashion fashion
+70,23,Female,Bhubaneswar,politics cricket travel fashion
+71,24,Male,Kochi,finance technology fashion yoga
+72,28,Male,Jaipur,yoga travel fashion
+73,27,Male,Chandigarh,travel gaming finance yoga
+74,50,Male,Bhubaneswar,health technology yoga finance
+75,35,Female,Raipur,cooking fashion
+76,49,Male,Delhi,technology spirituality politics cricket gaming finance
+77,21,Female,Kolkata,health cooking fashion
+78,37,Female,Kolkata,cricket finance fashion
+79,32,Female,Indore,yoga startups technology finance
+80,42,Male,Patna,travel cooking startups music
+81,48,Male,Varanasi,spirituality travel finance
+82,42,Female,Pune,technology bollywood finance fashion finance
+83,47,Male,Patna,gaming music finance
+84,28,Female,Kanpur,health music
+85,30,Male,Mysore,finance bollywood education spirituality health
+86,43,Female,Bhopal,bollywood startups cricket travel technology fashion finance
+87,44,Female,Delhi,cooking yoga education startups spirituality
+88,42,Female,Jaipur,yoga cricket spirituality technology health fashion
+89,26,Male,Bhubaneswar,finance fashion
+90,35,Male,Chennai,cricket gaming travel
+91,29,Female,Bhopal,education yoga cooking travel startups fashion
+92,49,Male,Indore,bollywood gaming spirituality music finance
+93,23,Male,Agra,bollywood gaming education health fashion
+94,45,Male,Nagpur,health finance
+95,40,Male,Bangalore,travel gaming
+96,46,Female,Shimla,health gaming finance
+97,43,Male,Bhubaneswar,technology music yoga bollywood spirituality
+98,18,Male,Hyderabad,spirituality music startups technology gaming
+99,31,Female,Nagpur,technology travel cooking education fashion
+100,18,Female,Guwahati,music yoga fashion
+101,27,Female,Mysore,spirituality politics health startups
+102,38,Male,Indore,cooking finance education music
+103,20,Female,Goa,music health fashion
+104,26,Male,Goa,health finance
+105,33,Male,Kochi,cricket gaming bollywood
+106,35,Female,Bangalore,music bollywood politics
+107,45,Female,Bangalore,bollywood spirituality finance
+108,41,Female,Nagpur,cooking cricket politics travel education
+109,36,Male,Chandigarh,yoga startups travel finance health
+110,42,Male,Bhopal,cricket bollywood cooking education
+111,35,Male,Vishakhapatnam,cooking politics cricket bollywood finance
+112,49,Female,Mysore,finance spirituality yoga politics music
+113,20,Male,Indore,fashion bollywood spirituality technology politics
+114,27,Male,Jaipur,bollywood cooking
+115,49,Female,Patna,health cricket
+116,24,Male,Kochi,bollywood startups
+117,26,Female,Indore,cooking startups
+118,34,Female,Indore,bollywood health travel fashion
+119,47,Male,Raipur,bollywood technology politics finance cooking
+120,39,Male,Chennai,cooking startups gaming spirituality music
+121,46,Female,Patna,yoga cooking cricket bollywood travel
+122,35,Male,Bhubaneswar,health startups politics spirituality
+123,27,Female,Hyderabad,finance music bollywood technology
+124,37,Male,Vishakhapatnam,yoga technology education travel
+125,33,Male,Kolkata,yoga spirituality
+126,30,Male,Chennai,health education
+127,29,Female,Guwahati,travel spirituality
+128,30,Male,Coimbatore,gaming education cooking
+129,37,Male,Surat,cricket music travel bollywood
+130,43,Male,Dehradun,bollywood education fashion finance
+131,23,Male,Bangalore,cooking health technology startups politics gaming
+132,47,Male,Jaipur,education technology finance
+133,43,Male,Kochi,education spirituality cricket startups health
+134,44,Female,Ranchi,education cooking startups
+135,50,Female,Kanpur,spirituality yoga fashion travel
+136,21,Female,Raipur,education cricket
+137,33,Female,Indore,cricket spirituality education bollywood fashion
+138,36,Female,Vishakhapatnam,gaming bollywood
+139,26,Male,Patna,travel startups cooking bollywood
+140,37,Female,Indore,finance startups
+141,35,Female,Ranchi,fashion cooking yoga health spirituality fashion
+142,49,Male,Patna,travel bollywood finance technology yoga finance
+143,35,Female,Agra,bollywood travel spirituality fashion
+144,39,Male,Surat,health gaming
+145,21,Female,Ahmedabad,politics fashion startups technology
+146,27,Female,Bhopal,yoga gaming
+147,36,Female,Mumbai,spirituality finance health music
+148,23,Female,Bhopal,fashion bollywood fashion
+149,26,Male,Chennai,cooking finance spirituality
+150,40,Male,Lucknow,yoga startups fashion
+151,41,Male,Lucknow,music fashion gaming
+152,40,Male,Goa,technology music gaming bollywood education
+153,36,Male,Shimla,cooking finance music
+154,38,Female,Kochi,yoga fashion cricket education
+155,38,Female,Bhubaneswar,education finance music
+156,23,Female,Mumbai,gaming health education cooking finance
+157,26,Female,Kochi,politics cooking finance music health
+158,24,Female,Indore,education spirituality travel fashion
+159,33,Female,Lucknow,gaming travel education fashion
+160,45,Female,Raipur,politics yoga education fashion finance
+161,45,Male,Chandigarh,cooking finance politics cricket startups
+162,39,Male,Chandigarh,gaming finance travel spirituality
+163,29,Male,Patna,cooking cricket
+164,37,Female,Chennai,gaming yoga
+165,36,Female,Surat,politics cricket fashion spirituality cooking
+166,28,Male,Ahmedabad,fashion yoga
+167,49,Female,Surat,startups technology cooking yoga fashion
+168,24,Male,Coimbatore,startups fashion gaming politics
+169,31,Female,Chennai,fashion travel bollywood fashion
+170,30,Male,Vishakhapatnam,finance politics health
+171,20,Male,Mysore,startups cooking travel spirituality politics gaming
+172,30,Female,Chennai,yoga bollywood politics spirituality
+173,26,Male,Coimbatore,education travel yoga
+174,24,Female,Patna,spirituality cooking fashion technology gaming
+175,28,Male,Bhubaneswar,spirituality technology health
+176,48,Female,Guwahati,technology yoga spirituality education bollywood finance
+177,18,Female,Indore,technology bollywood fashion yoga startups
+178,22,Female,Surat,gaming health fashion
+179,27,Female,Vishakhapatnam,education cricket health fashion
+180,46,Male,Nagpur,cricket yoga health finance
+181,35,Female,Amritsar,politics startups
+182,18,Male,Kolkata,health yoga gaming startups cricket
+183,22,Female,Bhopal,politics gaming fashion
+184,29,Male,Bhubaneswar,fashion technology education spirituality
+185,21,Male,Kolkata,bollywood cricket music cooking spirituality
+186,32,Female,Jaipur,bollywood yoga
+187,27,Male,Delhi,gaming spirituality politics bollywood yoga
+188,48,Female,Agra,yoga gaming spirituality fashion finance
+189,25,Male,Coimbatore,fashion yoga startups
+190,20,Male,Mumbai,cooking finance travel cricket fashion
+191,35,Male,Agra,cooking finance fashion travel
+192,22,Female,Kochi,music spirituality health
+193,46,Male,Bhopal,cooking yoga finance
+194,29,Male,Raipur,travel yoga
+195,44,Female,Varanasi,travel technology spirituality gaming politics fashion finance
+196,24,Female,Kochi,technology bollywood fashion
+197,43,Male,Mumbai,yoga fashion
+198,26,Female,Goa,fashion cricket music fashion
+199,43,Male,Mysore,music technology travel bollywood startups finance
+200,30,Male,Patna,music finance
+201,43,Female,Kochi,cricket politics technology fashion startups
+202,39,Female,Hyderabad,cricket music
+203,21,Male,Shimla,finance cooking gaming education music
+204,27,Male,Amritsar,finance travel cooking spirituality
+205,35,Female,Bhopal,cooking technology fashion
+206,29,Male,Varanasi,health education spirituality technology travel
+207,34,Male,Agra,cricket yoga
+208,39,Female,Surat,music technology startups
+209,37,Female,Indore,health cricket fashion
+210,48,Male,Bhopal,cooking fashion yoga finance
+211,42,Male,Dehradun,cooking spirituality cricket finance finance
+212,32,Male,Shimla,yoga finance
+213,35,Female,Coimbatore,bollywood gaming education travel
+214,22,Female,Vishakhapatnam,finance startups fashion
+215,21,Female,Bhopal,gaming startups technology
+216,46,Female,Hyderabad,fashion technology
+217,48,Male,Goa,music technology gaming fashion politics finance
+218,18,Male,Patna,education politics fashion finance
+219,40,Female,Bhopal,cricket bollywood travel health yoga
+220,33,Male,Pune,music fashion education travel
+221,24,Female,Amritsar,travel cricket spirituality yoga fashion
+222,24,Female,Shimla,cooking bollywood finance fashion fashion
+223,21,Male,Jaipur,gaming finance education fashion
+224,41,Female,Chandigarh,gaming yoga cooking fashion
+225,24,Male,Chennai,travel cooking startups
+226,27,Female,Guwahati,finance spirituality startups technology politics
+227,46,Male,Dehradun,technology bollywood
+228,38,Male,Bhopal,startups yoga gaming bollywood
+229,18,Male,Varanasi,fashion finance education yoga startups
+230,20,Female,Raipur,yoga gaming spirituality fashion
+231,32,Female,Agra,fashion yoga technology fashion
+232,24,Female,Raipur,cooking gaming education health yoga fashion
+233,21,Female,Raipur,yoga education politics gaming spirituality
+234,32,Female,Coimbatore,finance technology health fashion
+235,23,Female,Nagpur,startups cooking
+236,31,Male,Nagpur,spirituality cooking education fashion startups
+237,34,Male,Kolkata,technology bollywood cricket finance
+238,24,Male,Jaipur,travel spirituality
+239,46,Male,Hyderabad,yoga education health
+240,49,Male,Goa,travel yoga cooking finance
+241,32,Female,Raipur,music bollywood fashion
+242,24,Male,Bhopal,fashion cricket politics finance startups
+243,18,Male,Delhi,spirituality technology gaming
+244,34,Male,Jaipur,startups cricket cooking fashion
+245,45,Female,Raipur,health startups finance
+246,23,Female,Raipur,gaming finance startups yoga
+247,41,Male,Agra,travel technology finance
+248,21,Male,Lucknow,yoga startups health cooking
+249,29,Male,Vishakhapatnam,cooking politics
+250,42,Male,Shimla,travel bollywood fashion cooking politics finance
+251,24,Female,Dehradun,finance health spirituality gaming fashion
+252,36,Male,Kochi,music cricket startups education politics
+253,23,Female,Hyderabad,technology finance yoga
+254,36,Male,Raipur,travel bollywood
+255,42,Male,Mumbai,yoga finance finance
+256,38,Male,Bhopal,bollywood cooking
+257,39,Female,Bangalore,music technology travel yoga fashion
+258,49,Male,Goa,yoga technology cricket music fashion finance
+259,38,Female,Guwahati,technology bollywood cooking spirituality fashion
+260,40,Female,Goa,cooking bollywood yoga
+261,35,Female,Agra,finance politics spirituality gaming
+262,35,Female,Bhubaneswar,finance gaming yoga
+263,38,Male,Amritsar,health education travel
+264,43,Male,Mysore,travel yoga finance
+265,38,Male,Vishakhapatnam,cricket gaming spirituality
+266,26,Female,Patna,startups travel technology
+267,40,Female,Raipur,finance cooking music travel
+268,34,Male,Kolkata,politics finance
+269,50,Male,Jaipur,spirituality technology travel cricket fashion
+270,42,Male,Bangalore,health education
+271,43,Male,Goa,bollywood health music cooking
+272,23,Male,Ahmedabad,travel yoga fashion
+273,28,Male,Patna,startups fashion
+274,18,Male,Kolkata,travel education fashion
+275,43,Female,Goa,gaming finance startups travel finance
+276,35,Female,Bhopal,yoga finance technology cricket
+277,29,Male,Mumbai,health spirituality finance
+278,40,Male,Ranchi,fashion education travel finance music
+279,29,Female,Coimbatore,spirituality fashion
+280,30,Male,Kolkata,bollywood education
+281,20,Male,Shimla,cricket music finance politics
+282,36,Male,Hyderabad,health music spirituality fashion
+283,40,Female,Kochi,gaming yoga finance fashion
+284,23,Female,Nagpur,bollywood technology education music
+285,30,Male,Bhopal,fashion music health
+286,21,Female,Delhi,bollywood startups cricket cooking fashion
+287,24,Female,Vishakhapatnam,bollywood fashion
+288,30,Male,Ranchi,education health travel
+289,36,Male,Nagpur,finance yoga
+290,29,Female,Surat,health technology yoga cricket
+291,45,Male,Surat,cooking cricket music finance
+292,23,Male,Goa,finance startups gaming spirituality
+293,20,Female,Amritsar,technology fashion fashion
+294,28,Female,Indore,music startups bollywood fashion
+295,43,Female,Jaipur,travel cooking gaming finance
+296,19,Male,Chandigarh,bollywood spirituality politics gaming technology
+297,50,Male,Shimla,yoga bollywood
+298,50,Female,Shimla,bollywood travel finance
+299,43,Female,Chandigarh,health gaming finance
+300,36,Male,Goa,spirituality politics
